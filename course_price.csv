@@ -1,155 +1,78 @@
 course_name,year,course_price
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2013,720000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2014,800000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2015,890000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2016,990000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2017,1100000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2018,1200000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2019,1350000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2020,1500000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2021,1650000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2022,1820000
-"BSc (Hons) in Information Technology
-Specialising in Software Engineering",2023,2440000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2013,680000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2014,750000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2015,830000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2016,920000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2017,1020000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2018,1120000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2019,1200000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2020,1400000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2021,1540000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2022,1720000
-"BSc (Hons) in Information Technology
-Specialising in Information Technology",2023,2320000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2013,760000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2014,850000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2015,940000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2016,1050000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2017,1117000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2018,1300000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2019,1440000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2020,1600000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2021,1760000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2022,1920000
-"BSc (Hons) in Information Technology
-Specialising in Computer Systems & Network Engineering",2023,2560000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2013,680000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2014,750000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2015,830000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2016,920000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2017,1020000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2018,1120000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2019,1200000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2020,1400000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2021,1540000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2022,1720000
-"BSc (Hons) in Information Technology
-Specialising in Information Systems Engineering",2023,2320000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2013,720000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2014,800000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2015,890000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2016,990000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2017,1100000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2018,1200000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2019,1350000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2020,1500000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2021,1650000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2022,1820000
-"BSc (Hons) in Information Technology
-Specialising in Data Science",2023,2440000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2013,680000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2014,750000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2015,830000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2016,920000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2017,1020000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2018,1120000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2019,1200000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2020,1400000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2021,1650000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2022,1820000
-"BSc (Hons) in Information Technology
-Specialising in Interactive Media",2023,2440000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2013,750000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2014,830000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2015,920000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2016,1020000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2017,1130000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2018,1260000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2019,1400000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2020,1550000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2021,1700000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2022,1900000
-"BSc (Hons) in Information Technology
-Specialising in Cyber Security",2023,2500000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2013,720000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2014,800000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2015,890000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2016,990000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2017,1100000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2018,1200000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2019,1350000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2020,1500000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2021,1650000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2022,1820000
+BSc (Hons) in Information Technology Specialising in Software Engineering,2023,2440000
+BSc (Hons) in Information Technology Specialising in Information Technology,2013,680000
+BSc (Hons) in Information Technology Specialising in Information Technology,2014,750000
+BSc (Hons) in Information Technology Specialising in Information Technology,2015,830000
+BSc (Hons) in Information Technology Specialising in Information Technology,2016,920000
+BSc (Hons) in Information Technology Specialising in Information Technology,2017,1020000
+BSc (Hons) in Information Technology Specialising in Information Technology,2018,1120000
+BSc (Hons) in Information Technology Specialising in Information Technology,2019,1200000
+BSc (Hons) in Information Technology Specialising in Information Technology,2020,1400000
+BSc (Hons) in Information Technology Specialising in Information Technology,2021,1540000
+BSc (Hons) in Information Technology Specialising in Information Technology,2022,1720000
+BSc (Hons) in Information Technology Specialising in Information Technology,2023,2320000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2013,760000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2014,850000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2015,940000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2016,1050000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2017,1117000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2018,1300000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2019,1440000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2020,1600000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2021,1760000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2022,1920000
+BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering,2023,2560000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2013,680000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2014,750000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2015,830000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2016,920000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2017,1020000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2018,1120000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2019,1200000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2020,1400000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2021,1540000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2022,1720000
+BSc (Hons) in Information Technology Specialising in Information Systems Engineering,2023,2320000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2013,720000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2014,800000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2015,890000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2016,990000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2017,1100000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2018,1200000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2019,1350000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2020,1500000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2021,1650000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2022,1820000
+BSc (Hons) in Information TechnologySpecialising in Data Science,2023,2440000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2013,680000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2014,750000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2015,830000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2016,920000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2017,1020000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2018,1120000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2019,1200000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2020,1400000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2021,1650000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2022,1820000
+BSc (Hons) in Information Technology Specialising in Interactive Media,2023,2440000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2013,750000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2014,830000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2015,920000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2016,1020000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2017,1130000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2018,1260000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2019,1400000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2020,1550000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2021,1700000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2022,1900000
+BSc (Hons) in Information Technology Specialising in Cyber Security,2023,2500000
