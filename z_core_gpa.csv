@@ -1,34 +1,34 @@
-University,Specialization,Stream,z_core,gpa
+University,Specialization ,Stream,z_Core,gpa
 SLIIT,Information Systems Engineering,Commerce Stream,0.4678,3.2984219690554974
-SLIIT,Information Technology,Maths Stream,0.9232,3.45
+SLIIT,Information Technology,Maths Stream,0.9232,2.968384250410842
 SLIIT,Information Systems Engineering,Commerce Stream,0.4678,3.377618697802566
-SLIIT,Cyber Security,Bio Stream,0.9232,3.65
-SLIIT,Information Systems Engineering,Commerce Stream,1.0678,3.22
+SLIIT,Cyber Security,Bio Stream,0.9232,2.765001340303725
+SLIIT,Information Systems Engineering,Commerce Stream,1.0678,3.7897563485900583
 SLIIT,Information Systems Engineering,Commerce Stream,0.2314,3.4058535269851435
-SLIIT,Information Technology,Maths Stream,0.9232,3.43
-NSBM,Software Engineering,Maths Stream,0.9232,3.12
-SLIIT,Information Systems Engineering,Commerce Stream,0.6456,3.2180793881029377
+SLIIT,Information Technology,Maths Stream,0.9232,2.9957877052965225
+NSBM,Software Engineering,Maths Stream,0.9232,2.8706788506773626
+SLIIT,Information Systems Engineering,Commerce Stream,0.6456,3.2592509257428053
 SLIIT,Information Systems Engineering,Commerce Stream,0.1241,2.5384304691934902
-SLIIT,Information Technology,Maths Stream,0.9232,3.46
-SLIIT,Data Science,Bio Stream,0.9232,3.13
-SLIIT,Cyber Security,Bio Stream,0.9232,2.99
-SLIIT,Information Technology,Maths Stream,0.9232,3.09
-SLIIT,Cyber Security,Maths Stream,0.6356,3.0970607404077737
-SLIIT,Data Science,Maths Stream,0.6356,2.6248152860038014
-NSBM,Software Engineering,Maths Stream,0.6356,3.4013374028809857
-SLIIT,Information Systems Engineering,Commerce Stream,1.1241,3.89
+SLIIT,Information Technology,Maths Stream,0.9232,3.050403584410811
+SLIIT,Data Science,Bio Stream,0.9232,3.581276351520092
+SLIIT,Cyber Security,Bio Stream,0.9232,3.396820056232023
+SLIIT,Information Technology,Maths Stream,0.9232,3.217832629290319
+SLIIT,Cyber Security,Maths Stream,0.6356,3.1651537025149095
+SLIIT,Data Science,Maths Stream,0.6356,3.3184367704578386
+NSBM,Software Engineering,Maths Stream,0.6356,2.750501929334116
+SLIIT,Information Systems Engineering,Commerce Stream,1.1241,3.121806561971902
 SLIIT,Cyber Security,Commerce Stream,0.1241,2.7650263703327576
-SLIIT,Software Engineering,Bio Stream,0.6356,3.108810834406925
+SLIIT,Software Engineering,Bio Stream,0.6356,3.029934910617297
 NSBM,Cyber Security,Commerce Stream,0.5923,3.366324845004599
 SLIIT,Information Technology,Commerce Stream,0.6567,2.5570232224032745
-SLIIT,Software Engineering,Bio Stream,0.6356,2.9590002887699183
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.6356,3.0046519671708
-SLIIT,Information Technology,Commerce Stream,0.7795,2.83
-NSBM,Cyber Security,Commerce Stream,0.7795,3.13
-SLIIT,Software Engineering,Bio Stream,0.6356,2.7841862293591078
-SLIIT,Software Engineering,Bio Stream,0.8456,2.56
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8456,2.89
-SLIIT,Cyber Security,Commerce Stream,0.7795,2.78
+SLIIT,Software Engineering,Bio Stream,0.6356,3.8125619718335333
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.6356,3.064296551703128
+SLIIT,Information Technology,Commerce Stream,0.7795,3.254744577264636
+NSBM,Cyber Security,Commerce Stream,0.7795,2.87770477055712
+SLIIT,Software Engineering,Bio Stream,0.6356,3.1658595496972066
+SLIIT,Software Engineering,Bio Stream,0.8456,3.1701571473639953
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8456,3.1865257995683276
+SLIIT,Cyber Security,Commerce Stream,0.7795,3.376123520757386
 SLIIT,Data Science,Commerce Stream,0.5323,3.253025243230738
 SLIIT,Data Science,Commerce Stream,0.5323,3.2090036605857337
 SLIIT,Information Technology,Commerce Stream,0.5323,2.9888378054647777
@@ -36,29 +36,29 @@ SLIIT,Data Science,Commerce Stream,0.5323,3.190017660721955
 NSBM,Information Technology,Commerce Stream,0.5323,2.9064176374932718
 NSBM,Cyber Security,Commerce Stream,0.5323,2.754535363231697
 SLIIT,Data Science,Commerce Stream,0.2345,3.3436106278713735
-SLIIT,Software Engineering,Bio Stream,0.8456,2.89
+SLIIT,Software Engineering,Bio Stream,0.8456,3.678755298771337
 SLIIT,Cyber Security,Commerce Stream,0.2345,3.5761550355375986
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,3.0662956408838635
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.847988932609231
-NSBM,Software Engineering,Bio Stream,0.8456,2.09
-NSBM,Software Engineering,Bio Stream,0.8456,2.88
+NSBM,Software Engineering,Bio Stream,0.8456,3.5778940456109214
+NSBM,Software Engineering,Bio Stream,0.8456,2.871072653267728
 SLIIT,Information Technology,Commerce Stream,0.2345,3.0796588522015576
 SLIIT,Information Technology,Commerce Stream,0.2345,3.321892194216139
 SLIIT,Information Technology,Commerce Stream,0.2345,3.211127727178377
 SLIIT,Information Technology,Commerce Stream,0.2345,2.671588852237262
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8456,2.98
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8456,3.7334185768804007
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.774063446211948
-SLIIT,Software Engineering,Bio Stream,0.8456,2.67
+SLIIT,Software Engineering,Bio Stream,0.8456,2.8801257680921837
 SLIIT,Information Technology,Commerce Stream,0.2345,2.743774838463024
 SLIIT,Information Technology,Commerce Stream,0.2345,3.353292203825612
 SLIIT,Information Technology,Commerce Stream,0.2345,2.5140453567507257
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.598822954309358
 SLIIT,Software Engineering,Technology Stream,0.6543,3.51639512934567
-SLIIT,Software Engineering,Technology Stream,1.3867,3.33
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8456,3.22
+SLIIT,Software Engineering,Technology Stream,1.3867,3.2706981708515253
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8456,2.917443957777926
 SLIIT,Information Technology,Commerce Stream,0.2345,2.592189333936325
 SLIIT,Cyber Security,Commerce Stream,0.2345,2.933241844311039
-SLIIT,Software Engineering,Technology Stream,1.0056,3.22
+SLIIT,Software Engineering,Technology Stream,1.0056,3.7999900469897576
 SLIIT,Information Technology,Commerce Stream,0.2345,2.7292316453074967
 NSBM,Information Technology,Commerce Stream,0.2345,3.0176067240215017
 NSBM,Information Technology,Commerce Stream,0.2345,2.6249376017462542
@@ -71,155 +71,155 @@ NSBM,Information Technology,Commerce Stream,0.2345,2.8467005945077655
 NSBM,Cyber Security,Commerce Stream,0.2345,3.0780690381812343
 NIBM,Information Technology,Commerce Stream,0.2345,3.010180222562538
 NIBM,Information Technology,Commerce Stream,0.2345,2.8019668712093613
-NIBM,Cyber Security,Maths Stream,0.8456,3.24
-NSBM,Cyber Security,Maths Stream,0.8456,3.75
-NSBM,Cyber Security,Maths Stream,0.8456,3.6
-NIBM,Cyber Security,Maths Stream,0.8456,3.15
-NSBM,Cyber Security,Maths Stream,1.1023,3.25
-NIBM,Cyber Security,Maths Stream,1.1023,3.428
-NIBM,Cyber Security,Maths Stream,1.1023,3.8
-NIBM,Cyber Security,Maths Stream,1.1023,2.9
+NIBM,Cyber Security,Maths Stream,0.8456,3.2408905374873918
+NSBM,Cyber Security,Maths Stream,0.8456,3.428242185934482
+NSBM,Cyber Security,Maths Stream,0.8456,2.97950453279866
+NIBM,Cyber Security,Maths Stream,0.8456,2.843357885697914
+NSBM,Cyber Security,Maths Stream,1.1023,2.9738398686317944
+NIBM,Cyber Security,Maths Stream,1.1023,3.1045520909110387
+NIBM,Cyber Security,Maths Stream,1.1023,2.8907308600511143
+NIBM,Cyber Security,Maths Stream,1.1023,3.872800180679655
 NIBM,Information Technology,Commerce Stream,0.2345,3.65
-NIBM,Information Technology,Maths Stream,1.1023,3.75
-NIBM,Information Technology,Maths Stream,1.1023,3.1
-NSBM,Information Technology,Maths Stream,1.1023,3.8
-SLIIT,Cyber Security,Maths Stream,1.0032,3.4
-NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,3.57
-NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,3.4
-NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,3.5
-SLIIT,Computer Systems & Network Engineering,Maths Stream,1.0032,3.6
-SLIIT,Computer Systems & Network Engineering,Maths Stream,1.0032,3.42
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.75
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.15
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.4
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.7
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.36
-NIBM,Cyber Security,Maths Stream,0.7435,3.7
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.7
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.6
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.2
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.5
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.5
-NSBM,Data Science,Maths Stream,0.8769,3.0
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.7
-NIBM,Software Engineering,Technology Stream,1.0156,3.81
-NSBM,Computer Systems & Network Engineering,Technology Stream,0.8795,3.1
-NIBM,Cyber Security,Maths Stream,0.8769,3.4
+NIBM,Information Technology,Maths Stream,1.1023,2.750317644027456
+NIBM,Information Technology,Maths Stream,1.1023,2.773696385541062
+NSBM,Information Technology,Maths Stream,1.1023,2.840962172819288
+SLIIT,Cyber Security,Maths Stream,1.0032,3.893666258226758
+NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,2.8676377306042404
+NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,2.7785483285911017
+NSBM,Computer Systems & Network Engineering,Maths Stream,1.0032,3.0246029557479206
+SLIIT,Computer Systems & Network Engineering,Maths Stream,1.0032,3.1728667985429246
+SLIIT,Computer Systems & Network Engineering,Maths Stream,1.0032,3.863026255211958
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.1948154399388904
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.3035372273748234
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.6026312745880285
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.0798025773958972
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.4643111395474593
+NIBM,Cyber Security,Maths Stream,0.7435,3.79497171086578
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.663574411190629
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,2.844082489316053
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7435,3.5304696267458633
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.8619480867183063
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.0100181242309856
+NSBM,Data Science,Maths Stream,0.8769,3.5107181826056744
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.15107101449021
+NIBM,Software Engineering,Technology Stream,1.0156,3.8969683211165345
+NSBM,Computer Systems & Network Engineering,Technology Stream,0.8795,2.900149706745279
+NIBM,Cyber Security,Maths Stream,0.8769,2.740876405788611
 NIBM,Computer Systems & Network Engineering,Technology Stream,0.1284,3.5
 NIBM,Computer Systems & Network Engineering,Technology Stream,0.6789,3.65
-NSBM,Computer Systems & Network Engineering,Technology Stream,0.9256,3.7
+NSBM,Computer Systems & Network Engineering,Technology Stream,0.9256,3.3231284868966977
 NSBM,Computer Systems & Network Engineering,Technology Stream,0.1432,3.1
 NSBM,Software Engineering,Technology Stream,0.5467,3.35
 NIBM,Computer Systems & Network Engineering,Technology Stream,0.5467,3.541
-NIBM,Computer Systems & Network Engineering,Technology Stream,0.7689,2.9
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.0
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.78
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.76
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.91
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.92
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.95
-NIBM,Information Technology,Maths Stream,0.9867,2.94
-NSBM,Data Science,Maths Stream,0.9867,2.49
-NIBM,Cyber Security,Maths Stream,0.9867,2.59
-NSBM,Software Engineering,Technology Stream,0.7895,2.79
-NIBM,Software Engineering,Technology Stream,0.7895,2.92
-NIBM,Software Engineering,Technology Stream,1.2365,2.69
-NIBM,Cyber Security,Maths Stream,0.9867,2.69
-NIBM,Cyber Security,Maths Stream,0.9867,2.87
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.87
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.89
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.99
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.08
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.9
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.99
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.9
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.95
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.89
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.78
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.69
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.86
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,2.95
+NIBM,Computer Systems & Network Engineering,Technology Stream,0.7689,2.7405168450766544
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8769,3.509788617394222
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.1654896721663097
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.315382352940288
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.8770584351162367
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.7904781802005303
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.8533943492739313
+NIBM,Information Technology,Maths Stream,0.9867,3.662219560098995
+NSBM,Data Science,Maths Stream,0.9867,2.7324059190494734
+NIBM,Cyber Security,Maths Stream,0.9867,3.5118310859497126
+NSBM,Software Engineering,Technology Stream,0.7895,3.7147671137719014
+NIBM,Software Engineering,Technology Stream,0.7895,2.9160347908384807
+NIBM,Software Engineering,Technology Stream,1.2365,3.596400767457526
+NIBM,Cyber Security,Maths Stream,0.9867,3.8513791065378444
+NIBM,Cyber Security,Maths Stream,0.9867,2.7127698477817366
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.9638222956140434
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.589581885461393
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,2.989660256890032
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.2776057338789006
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.395529911027519
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.200588521301898
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.5228796876852533
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.4791298767129764
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.76914867161375
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.244177044400365
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.56068063189082
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9867,3.6792395923158203
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,3.531439260083508
 SLIIT,Cyber Security,Technology Stream,0.1465,2.8
 SLIIT,Cyber Security,Technology Stream,0.2345,2.7
-NIBM,Information Technology,Maths Stream,0.9453,2.86
-NSBM,Information Technology,Maths Stream,0.9453,2.98
+NIBM,Information Technology,Maths Stream,0.9453,3.131405361938791
+NSBM,Information Technology,Maths Stream,0.9453,3.56869054463363
 SLIIT,Cyber Security,Technology Stream,0.2315,2.9
 NIBM,Cyber Security,Technology Stream,0.2355,2.8
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,2.88
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,3.3266598036117885
 NIBM,Cyber Security,Technology Stream,0.2375,2.9
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.89
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,2.29
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.5647415701400504
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9453,3.4105800764965153
 NIBM,Cyber Security,Technology Stream,0.2305,2.9
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.79
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.49
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.5471705156643827
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.4928710919846857
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.4276605774441467
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.4647531427257974
-SLIIT,Computer Systems & Network Engineering,Technology Stream,0.9198,2.7467645792557205
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.093545642693477
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.8112433024493324
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.019423033217316
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.840057724202494
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.483924906239543
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.302649904942945
+SLIIT,Computer Systems & Network Engineering,Technology Stream,0.9198,3.035191366555616
 NSBM,Computer Systems & Network Engineering,Technology Stream,0.541,2.5815834092651273
-SLIIT,Information Technology,Technology Stream,0.9288,2.887120002286662
-SLIIT,Data Science,Maths Stream,0.9453,3.096126410246934
+SLIIT,Information Technology,Technology Stream,0.9288,3.7150801799617366
+SLIIT,Data Science,Maths Stream,0.9453,3.584015055935642
 SLIIT,Cyber Security,Technology Stream,0.2314,3.0011280696076055
 SLIIT,Software Engineering,Technology Stream,0.5421,2.5711806632218956
-NSBM,Software Engineering,Technology Stream,0.9588,3.491781589787631
+NSBM,Software Engineering,Technology Stream,0.9588,2.776779078877302
 SLIIT,Software Engineering,Commerce Stream,0.2345,2.4632696705998267
-SLIIT,Cyber Security,Maths Stream,0.9453,2.90713975367021
-SLIIT,Cyber Security,Maths Stream,0.9453,2.685920008995989
+SLIIT,Cyber Security,Maths Stream,0.9453,3.063608081575458
+SLIIT,Cyber Security,Maths Stream,0.9453,3.058476766767729
 NSBM,Computer Systems & Network Engineering,Technology Stream,0.5188,2.5216178664827216
 SLIIT,Computer Systems & Network Engineering,Technology Stream,0.6589,3.127460297280017
-SLIIT,Computer Systems & Network Engineering,Technology Stream,0.8564,3.297393868271432
-SLIIT,Computer Systems & Network Engineering,Technology Stream,0.7845,2.768808245644541
-SLIIT,Cyber Security,Technology Stream,0.7805,3.383993878742375
+SLIIT,Computer Systems & Network Engineering,Technology Stream,0.8564,3.571750282288334
+SLIIT,Computer Systems & Network Engineering,Technology Stream,0.7845,3.116928604972704
+SLIIT,Cyber Security,Technology Stream,0.7805,3.275678792132247
 SLIIT,Computer Systems & Network Engineering,Technology Stream,0.6754,2.77690162076437
-SLIIT,Computer Systems & Network Engineering,Technology Stream,0.9199,2.7119558439764133
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,2.5891321203857025
-SLIIT,Cyber Security,Maths Stream,0.9453,3.5933035973187577
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8756,3.070355511972101
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,2.7214015198905384
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,2.981839591341398
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,3.152577078698844
-SLIIT,Information Technology,Technology Stream,0.9108,3.511340716568495
-SLIIT,Information Systems Engineering,Commerce Stream,1.2395,2.842112433717663
+SLIIT,Computer Systems & Network Engineering,Technology Stream,0.9199,3.3687462748956514
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.9453,3.1416684699010835
+SLIIT,Cyber Security,Maths Stream,0.9453,3.4070875938305374
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8756,3.896721154396381
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,3.555285328789046
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,3.235941078070047
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,3.85194568166793
+SLIIT,Information Technology,Technology Stream,0.9108,2.8295471388787057
+SLIIT,Information Systems Engineering,Commerce Stream,1.2395,3.057300313406454
 SLIIT,Information Technology,Technology Stream,0.3245,2.435090209605889
-SLIIT,Information Technology,Technology Stream,0.9088,3.410322294468767
-SLIIT,Data Science,Maths Stream,0.8756,3.2440998982653424
+SLIIT,Information Technology,Technology Stream,0.9088,3.3589897993628908
+SLIIT,Data Science,Maths Stream,0.8756,3.2595162652201077
 NSBM,Cyber Security,Commerce Stream,0.2345,3.0269963955595682
-NSBM,Information Technology,Technology Stream,0.9058,3.414822541964454
-SLIIT,Information Technology,Technology Stream,0.9028,3.2368192996462426
-SLIIT,Information Technology,Technology Stream,0.9188,3.347072933142893
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,2.576111555924999
-SLIIT,Information Systems Engineering,Commerce Stream,1.2395,3.0278938490412286
-SLIIT,Information Technology,Maths Stream,0.8756,2.681673842862548
+NSBM,Information Technology,Technology Stream,0.9058,3.5779265474419897
+SLIIT,Information Technology,Technology Stream,0.9028,2.725643329700249
+SLIIT,Information Technology,Technology Stream,0.9188,3.8312928468749945
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.8756,2.705927337577313
+SLIIT,Information Systems Engineering,Commerce Stream,1.2395,3.5961028350784927
+SLIIT,Information Technology,Maths Stream,0.8756,3.1688739094766745
 NSBM,Information Systems Engineering,Commerce Stream,0.2395,2.847284018374153
-NSBM,Cyber Security,Maths Stream,0.8756,2.7794251972034925
-SLIIT,Information Systems Engineering,Maths Stream,0.8756,2.547623476930725
+NSBM,Cyber Security,Maths Stream,0.8756,2.954977247295848
+SLIIT,Information Systems Engineering,Maths Stream,0.8756,3.897808048742607
 SLIIT,Information Systems Engineering,Art stream,0.1456,2.38926372902116
-SLIIT,Information Technology,Bio Stream,0.8756,3.1963009263188065
-SLIIT,Software Engineering,Commerce Stream,0.7689,3.0941998141804623
+SLIIT,Information Technology,Bio Stream,0.8756,2.9491976532803363
+SLIIT,Software Engineering,Commerce Stream,0.7689,3.5898446199660707
 NSBM,Information Systems Engineering,Art stream,0.1456,2.8710920971977445
 SLIIT,Information Systems Engineering,Art stream,0.4678,2.3059375757663703
-SLIIT,Information Technology,Bio Stream,0.8756,2.523028767494653
-SLIIT,Data Science,Maths Stream,0.7893,2.9353726332274013
+SLIIT,Information Technology,Bio Stream,0.8756,3.303250858888661
+SLIIT,Data Science,Maths Stream,0.7893,2.7362198847189543
 NIBM,Software Engineering,Commerce Stream,0.3456,2.944909410003747
-NIBM,Information Technology,Bio Stream,0.7893,3.108377009299131
-NIBM,Cyber Security,Maths Stream,0.7893,2.553453742308427
-NIBM,Data Science,Maths Stream,0.7893,2.906433694397276
+NIBM,Information Technology,Bio Stream,0.7893,3.331417029809774
+NIBM,Cyber Security,Maths Stream,0.7893,3.283985435029043
+NIBM,Data Science,Maths Stream,0.7893,2.879387979140466
 NSBM,Software Engineering,Commerce Stream,0.2456,2.732023939735462
 SLIIT,Information Systems Engineering,Art stream,0.3245,2.812970453222196
-SLIIT,Cyber Security,Maths Stream,0.7893,2.9035564971937498
+SLIIT,Cyber Security,Maths Stream,0.7893,3.7767614421542115
 SLIIT,Software Engineering,Commerce Stream,0.1324,2.7527502053739417
 NIBM,Software Engineering,Commerce Stream,0.2314,2.7491099121142075
-NIBM,Information Technology,Bio Stream,0.7893,3.466336199997852
+NIBM,Information Technology,Bio Stream,0.7893,3.399548396558234
 NIBM,Software Engineering,Commerce Stream,0.2314,2.798170987756018
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7893,3.2932629767451185
-NSBM,Information Technology,Bio Stream,0.7893,2.9444560260823733
-SLIIT,Software Engineering,Maths Stream,0.7854,3.1827504105565096
-SLIIT,Software Engineering,Maths Stream,0.7854,3.0491482253029814
-SLIIT,Software Engineering,Maths Stream,0.7854,3.33333255058137
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7854,3.3151105935204033
-NIBM,Software Engineering,Technology Stream,0.908,3.048476876769976
-NIBM,Software Engineering,Technology Stream,0.9087,3.476247455670657
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7893,2.767287503487475
+NSBM,Information Technology,Bio Stream,0.7893,3.3273981745235037
+SLIIT,Software Engineering,Maths Stream,0.7854,3.6573419746900364
+SLIIT,Software Engineering,Maths Stream,0.7854,2.7622174240830124
+SLIIT,Software Engineering,Maths Stream,0.7854,3.5264341068288845
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7854,3.6139367506475804
+NIBM,Software Engineering,Technology Stream,0.908,3.241458120808531
+NIBM,Software Engineering,Technology Stream,0.9087,2.871167945787153
 NIBM,Software Engineering,Technology Stream,0.2156,2.737665189149784
 SLIIT,Interactive Media,Commerce Stream,0.2314,2.250889712712617
 SLIIT,Interactive Media,Art stream,0.5643,2.4925695505300576
@@ -228,7 +228,7 @@ SLIIT,Interactive Media,Art stream,0.4672,2.8660244211299455
 SLIIT,Interactive Media,Commerce Stream,0.2314,2.399520800189192
 SLIIT,Interactive Media,Commerce Stream,0.3567,2.692450741457421
 SLIIT,Interactive Media,Commerce Stream,0.2314,2.238358400740094
-NSBM,Information Technology,Bio Stream,0.7854,2.6603438334015723
+NSBM,Information Technology,Bio Stream,0.7854,3.0461399242455998
 SLIIT,Interactive Media,Commerce Stream,0.1356,3.1929325982159558
 SLIIT,Interactive Media,Art stream,0.5234,2.776099445511604
 SLIIT,Interactive Media,Commerce Stream,0.0768,2.790725621271392
@@ -236,30 +236,30 @@ SLIIT,Interactive Media,Commerce Stream,0.3453,2.8072968880791667
 SLIIT,Interactive Media,Commerce Stream,0.3453,3.021753891281814
 SLIIT,Interactive Media,Commerce Stream,0.3453,2.6543567180489407
 SLIIT,Interactive Media,Commerce Stream,0.3453,3.1488298235853085
-SLIIT,Interactive Media,Maths Stream,0.7854,2.789868733200625
+SLIIT,Interactive Media,Maths Stream,0.7854,3.3075101102344284
 NSBM,Information Systems Engineering,Art stream,0.1983,2.4718732576475846
-SLIIT,Information Technology,Bio Stream,0.7854,3.2400790925742715
+SLIIT,Information Technology,Bio Stream,0.7854,3.025704495299383
 SLIIT,Information Systems Engineering,Art stream,0.1983,2.8902175233102567
-SLIIT,Cyber Security,Maths Stream,0.7854,2.8500820773043776
-NSBM,Information Systems Engineering,Bio Stream,0.7854,2.798493836864072
+SLIIT,Cyber Security,Maths Stream,0.7854,3.406087152956073
+NSBM,Information Systems Engineering,Bio Stream,0.7854,2.993143598954241
 SLIIT,Information Systems Engineering,Commerce Stream,0.3453,3.0887814888854552
-SLIIT,Information Technology,Bio Stream,0.7854,2.669080523791214
+SLIIT,Information Technology,Bio Stream,0.7854,3.230221949637488
 NSBM,Software Engineering,Commerce Stream,0.5437,2.394615120863709
-SLIIT,Information Systems Engineering,Commerce Stream,0.9856,2.719613583682607
-NSBM,Information Systems Engineering,Commerce Stream,0.9856,2.7362642298436315
-SLIIT,Information Technology,Bio Stream,0.7854,3.4808002144960573
-SLIIT,Data Science,Maths Stream,0.7854,3.1559343029685003
-SLIIT,Cyber Security,Maths Stream,0.7854,2.738500982883079
-SLIIT,Information Technology,Bio Stream,0.7854,2.8109900975416497
-SLIIT,Cyber Security,Maths Stream,0.7854,3.486581215884413
-SLIIT,Data Science,Maths Stream,0.7854,3.288309409232211
-SLIIT,Software Engineering,Commerce Stream,0.9856,3.263934480823743
+SLIIT,Information Systems Engineering,Commerce Stream,0.9856,3.1816542897779656
+NSBM,Information Systems Engineering,Commerce Stream,0.9856,2.965787430035993
+SLIIT,Information Technology,Bio Stream,0.7854,2.8186010395237746
+SLIIT,Data Science,Maths Stream,0.7854,3.825511256106538
+SLIIT,Cyber Security,Maths Stream,0.7854,3.434379898529891
+SLIIT,Information Technology,Bio Stream,0.7854,3.5501319811401864
+SLIIT,Cyber Security,Maths Stream,0.7854,2.79966746336265
+SLIIT,Data Science,Maths Stream,0.7854,3.8549115855967853
+SLIIT,Software Engineering,Commerce Stream,0.9856,2.9761226188963095
 SLIIT,Information Systems Engineering,Commerce Stream,0.1256,2.5317746627628184
-NSBM,Cyber Security,Maths Stream,0.7854,3.0090984402470946
+NSBM,Cyber Security,Maths Stream,0.7854,3.1524282414495466
 NSBM,Software Engineering,Commerce Stream,0.4376,2.557354085264796
-SLIIT,Cyber Security,Maths Stream,0.7854,3.11663929561105
-SLIIT,Information Technology,Bio Stream,0.7854,2.774384616195799
-SLIIT,Software Engineering,Commerce Stream,0.7689,3.5460251789642276
+SLIIT,Cyber Security,Maths Stream,0.7854,3.301362145019793
+SLIIT,Information Technology,Bio Stream,0.7854,2.7089261146439925
+SLIIT,Software Engineering,Commerce Stream,0.7689,2.8869984646421494
 SLIIT,Computer Systems & Network Engineering,Technology Stream,0.3456,2.566591792636031
 SLIIT,Information Technology,Bio Stream,0.2456,2.914998811842738
 NSBM,Cyber Security,Technology Stream,0.1324,2.406013807242617
@@ -277,94 +277,94 @@ SLIIT,Data Science,Maths Stream,0.3453,2.204228744571799
 SLIIT,Software Engineering,Art stream,0.3453,2.938426052270635
 SLIIT,Cyber Security,Commerce Stream,0.3453,2.9925302521187396
 SLIIT,Information Systems Engineering,Commerce Stream,0.5437,2.42633835596566
-SLIIT,Information Systems Engineering,Commerce Stream,0.9856,3.4223369763467457
-SLIIT,Software Engineering,Art stream,0.9856,3.440317976234572
-SLIIT,Software Engineering,Art stream,0.9856,3.37038958412968
+SLIIT,Information Systems Engineering,Commerce Stream,0.9856,2.7080100719964353
+SLIIT,Software Engineering,Art stream,0.9856,2.7168014863248335
+SLIIT,Software Engineering,Art stream,0.9856,3.6189144319354485
 SLIIT,Information Technology,Art stream,0.1256,2.97477882152178
 SLIIT,Information Technology,Art stream,0.4376,3.042464055533606
 NSBM,Information Technology,Art stream,0.3256,2.7343208629996942
 NSBM,Information Technology,Art stream,0.1456,2.646788659570822
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7854,3.531355892472187
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7854,3.6287955228130886
 NSBM,Information Systems Engineering,Commerce Stream,0.2395,2.414333574950565
-NIBM,Software Engineering,Maths Stream,0.7854,3.1273344252040216
-NIBM,Information Technology,Maths Stream,1.0057,2.998417077001957
-NIBM,Information Technology,Maths Stream,1.0057,3.372035392446956
-NSBM,Information Technology,Maths Stream,1.0057,3.523886630109948
+NIBM,Software Engineering,Maths Stream,0.7854,3.353694552857055
+NIBM,Information Technology,Maths Stream,1.0057,3.677119250972222
+NIBM,Information Technology,Maths Stream,1.0057,3.3772640787248758
+NSBM,Information Technology,Maths Stream,1.0057,3.515346797927612
 NSBM,Information Systems Engineering,Commerce Stream,0.2395,2.3620188649318177
-NIBM,Software Engineering,Bio Stream,1.0057,3.367971210381157
-NIBM,Software Engineering,Bio Stream,1.0057,3.0449253150571103
-NIBM,Computer Systems & Network Engineering,Maths Stream,1.0057,3.356884263868975
-NSBM,Information Technology,Maths Stream,1.0057,2.539624880173931
+NIBM,Software Engineering,Bio Stream,1.0057,3.395968695156313
+NIBM,Software Engineering,Bio Stream,1.0057,2.7222759549205438
+NIBM,Computer Systems & Network Engineering,Maths Stream,1.0057,3.356205522753083
+NSBM,Information Technology,Maths Stream,1.0057,3.3858383083863
 NSBM,Cyber Security,Commerce Stream,0.2345,2.5312348623023215
-NIBM,Software Engineering,Bio Stream,1.0057,2.707382352082803
-NSBM,Information Technology,Maths Stream,1.0057,3.530503067777093
-NIBM,Information Technology,Maths Stream,1.0057,3.140892500839641
-NIBM,Information Technology,Maths Stream,1.0057,2.8073014185659306
-NIBM,Information Technology,Maths Stream,1.0057,2.827934213922619
+NIBM,Software Engineering,Bio Stream,1.0057,3.574640687187858
+NSBM,Information Technology,Maths Stream,1.0057,3.2026750206798456
+NIBM,Information Technology,Maths Stream,1.0057,2.7523516705190763
+NIBM,Information Technology,Maths Stream,1.0057,2.8081643212118035
+NIBM,Information Technology,Maths Stream,1.0057,3.2144242599831143
 NIBM,Cyber Security,Commerce Stream,0.2345,3.0664888125027105
-NIBM,Information Technology,Maths Stream,1.0057,2.784941055704937
-NIBM,Information Technology,Maths Stream,1.0057,3.2741474184022836
-NSBM,Information Technology,Maths Stream,1.0057,3.3634930971502546
-SLIIT,Information Technology,Maths Stream,1.0057,2.931389044484061
+NIBM,Information Technology,Maths Stream,1.0057,3.7473452746249594
+NIBM,Information Technology,Maths Stream,1.0057,3.7189944612018353
+NSBM,Information Technology,Maths Stream,1.0057,3.221275859085989
+SLIIT,Information Technology,Maths Stream,1.0057,3.4645597393112366
 NSBM,Cyber Security,Commerce Stream,0.2345,2.2847966157417043
-NSBM,Information Technology,Maths Stream,1.0057,2.7704199302230244
-NSBM,Information Technology,Maths Stream,0.7532,2.709945184070854
-SLIIT,Cyber Security,Bio Stream,0.7532,3.1584071988350955
-SLIIT,Cyber Security,Bio Stream,0.7532,2.3066112466552697
-NSBM,Cyber Security,Bio Stream,0.7532,2.9726075998167802
-NSBM,Cyber Security,Bio Stream,0.7532,2.9934626781151907
-NIBM,Cyber Security,Bio Stream,0.7532,2.295308277038106
-NSBM,Cyber Security,Bio Stream,0.8654,2.8808706619557873
-NSBM,Cyber Security,Bio Stream,0.8654,3.271977973790624
-NIBM,Cyber Security,Bio Stream,0.8654,3.594315989948316
-NSBM,Information Technology,Maths Stream,0.8654,3.0008585152463314
-NSBM,Information Technology,Maths Stream,0.8654,2.5210012522705716
-NSBM,Information Technology,Maths Stream,0.8654,3.061876420954948
-NSBM,Information Technology,Maths Stream,0.8654,3.0197140089860364
-NSBM,Cyber Security,Bio Stream,0.8654,2.9398118291611226
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8654,2.862063329629163
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.578946469693645
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.6641121374103953
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.429846850464297
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.7809228629024676
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.014542810950582
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.593120882327885
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.2052419145045272
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.088340607657651
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.43850377556267
-NIBM,Cyber Security,Bio Stream,0.7603,2.6252566011740646
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7603,2.6628469991143424
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.1175005095733503
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,2.656302428582516
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.01174953702451
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.8578,3.321560845869773
-NIBM,Data Science,Maths Stream,0.8578,3.251474829462059
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.8578,2.987745061721987
-NIBM,Software Engineering,Bio Stream,0.8578,2.582433627429851
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.8578,3.4691123461846067
-NIBM,Cyber Security,Bio Stream,0.8578,3.051118816199913
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.7181568131647253
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.884031836807952
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.3449693856112956
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.605666383706733
-NIBM,Software Engineering,Bio Stream,0.9145,3.390824148679985
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.933067366080039
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.2288505309069486
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.3428598749912513
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.5997085517529985
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.0155129985542843
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.4187799665707286
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.737683481517376
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.71676971226259
-NSBM,Information Technology,Maths Stream,0.9145,2.8599105157742066
-NIBM,Data Science,Maths Stream,0.9145,2.931343822965415
-NSBM,Cyber Security,Bio Stream,0.789,3.414021696259483
-NSBM,Software Engineering,Bio Stream,0.789,2.8717241533272913
-NIBM,Software Engineering,Bio Stream,0.789,2.8336161332613794
-SLIIT,Software Engineering,Bio Stream,0.789,3.161876407173771
-SLIIT,Cyber Security,Bio Stream,0.789,2.927560656611738
-NIBM,Cyber Security,Bio Stream,0.789,3.58478578437516
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.789,2.738043468735315
+NSBM,Information Technology,Maths Stream,1.0057,3.6719275705129855
+NSBM,Information Technology,Maths Stream,0.7532,3.7693502896622535
+SLIIT,Cyber Security,Bio Stream,0.7532,2.9197732646618846
+SLIIT,Cyber Security,Bio Stream,0.7532,3.209168580143835
+NSBM,Cyber Security,Bio Stream,0.7532,3.662520495498578
+NSBM,Cyber Security,Bio Stream,0.7532,3.527897367196172
+NIBM,Cyber Security,Bio Stream,0.7532,3.0944815655566553
+NSBM,Cyber Security,Bio Stream,0.8654,2.753597796093045
+NSBM,Cyber Security,Bio Stream,0.8654,3.7603918450829514
+NIBM,Cyber Security,Bio Stream,0.8654,3.177019305226754
+NSBM,Information Technology,Maths Stream,0.8654,3.312366467022404
+NSBM,Information Technology,Maths Stream,0.8654,2.7666401766832154
+NSBM,Information Technology,Maths Stream,0.8654,2.7352901832754837
+NSBM,Information Technology,Maths Stream,0.8654,2.9807723843108946
+NSBM,Cyber Security,Bio Stream,0.8654,3.6705675260056587
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8654,3.428240445768817
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.4837355841630315
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.845462809496199
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.559315788621784
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.3708664449872
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.2696041323627116
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9756,3.109982669207057
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9756,2.929512864748625
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.8061680834535476
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.7478604445473565
+NIBM,Cyber Security,Bio Stream,0.7603,3.5111252031424325
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.224062074683828
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,3.4349370996705915
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7603,2.969886975759958
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7603,2.916576840554729
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.8578,3.213618190401466
+NIBM,Data Science,Maths Stream,0.8578,2.7020750987205195
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.8578,3.6756995704500373
+NIBM,Software Engineering,Bio Stream,0.8578,3.47731967170072
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.8578,3.370403396425912
+NIBM,Cyber Security,Bio Stream,0.8578,2.7200723398724653
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.6986264529409976
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.72243189342901
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.2686762889997483
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.0055134263041254
+NIBM,Software Engineering,Bio Stream,0.9145,3.0514818683202334
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.313158735299287
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.3603177570898506
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.856080150259964
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.1140682259286554
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.126617515098853
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.082020056546864
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,2.777134784714904
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.9145,3.8615843761365927
+NSBM,Information Technology,Maths Stream,0.9145,3.816294765699852
+NIBM,Data Science,Maths Stream,0.9145,2.891089222139163
+NSBM,Cyber Security,Bio Stream,0.789,3.0981544403388654
+NSBM,Software Engineering,Bio Stream,0.789,2.8298063292798172
+NIBM,Software Engineering,Bio Stream,0.789,2.9349455856799405
+SLIIT,Software Engineering,Bio Stream,0.789,3.361143871246353
+SLIIT,Cyber Security,Bio Stream,0.789,3.268654987749057
+NIBM,Cyber Security,Bio Stream,0.789,3.500664467160867
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.789,3.2617253859795703
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.6543,2.8576705386197085
 NIBM,Computer Systems & Network Engineering,Maths Stream,0.6543,3.0613494331570044
 NIBM,Computer Systems & Network Engineering,Maths Stream,0.6543,3.15629884449075
@@ -383,10 +383,10 @@ NSBM,Information Technology,Maths Stream,0.5346,2.9793908983525847
 SLIIT,Information Technology,Maths Stream,0.5346,2.2756225496265046
 SLIIT,Cyber Security,Commerce Stream,0.2345,3.153902047373807
 SLIIT,Cyber Security,Commerce Stream,0.2345,2.5314805771239595
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.591454244553924
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.2077671839746396
 NSBM,Cyber Security,Commerce Stream,0.2345,2.9094012409035583
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.3415673010677813
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.451561354946092
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.7434729930187
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7865,3.3167071240853225
 SLIIT,Cyber Security,Bio Stream,0.5436,3.0959767652467747
 NSBM,Computer Systems & Network Engineering,Maths Stream,0.5436,2.727495342323179
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.5436,3.0977359938680626
@@ -394,11 +394,11 @@ SLIIT,Computer Systems & Network Engineering,Maths Stream,0.5436,2.3834651916025
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.5436,2.25113931617292
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.5436,2.632294121664777
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.6789,2.747044761716791
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,2.468234191692661
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,2.3088826148488653
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,3.2178968160244663
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,3.2912006171785793
 SLIIT,Information Technology,Commerce Stream,0.2345,2.9943670667750846
-NSBM,Data Science,Maths Stream,0.7567,2.562888412647707
-SLIIT,Cyber Security,Maths Stream,0.7567,2.5223839685296037
+NSBM,Data Science,Maths Stream,0.7567,3.0871285115205866
+SLIIT,Cyber Security,Maths Stream,0.7567,3.0030501433626218
 SLIIT,Software Engineering,Bio Stream,0.6546,2.471185416702846
 SLIIT,Software Engineering,Bio Stream,0.6546,2.6244074439006284
 SLIIT,Software Engineering,Bio Stream,0.6546,2.7901789564309305
@@ -411,22 +411,22 @@ NSBM,Computer Systems & Network Engineering,Maths Stream,0.6546,2.43744201755953
 SLIIT,Cyber Security,Commerce Stream,0.2345,2.4827124806049277
 SLIIT,Computer Systems & Network Engineering,Bio Stream,0.6546,3.195439688933229
 SLIIT,Computer Systems & Network Engineering,Maths Stream,0.6546,2.970995240367608
-SLIIT,Computer Systems & Network Engineering,Technology Stream,0.7856,2.6339182166178885
+SLIIT,Computer Systems & Network Engineering,Technology Stream,0.7856,2.7133985640632385
 SLIIT,Cyber Security,Commerce Stream,0.2345,3.182623940746034
 NSBM,Computer Systems & Network Engineering,Maths Stream,0.6546,2.712008814665557
-NSBM,Computer Systems & Network Engineering,Maths Stream,0.7567,2.4117863466667333
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,2.9578823533139498
-SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,2.265696687768618
+NSBM,Computer Systems & Network Engineering,Maths Stream,0.7567,2.8772883886902805
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,3.4017794993772674
+SLIIT,Computer Systems & Network Engineering,Maths Stream,0.7567,3.2643637260486913
 SLIIT,Information Technology,Commerce Stream,0.2845,2.2877764809585592
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.444811544043441
 NSBM,Information Technology,Commerce Stream,0.2345,2.2080269331812876
 SLIIT,Information Technology,Commerce Stream,0.2345,2.9228217125919507
-SLIIT,Data Science,Maths Stream,0.7567,3.0336350476332505
+SLIIT,Data Science,Maths Stream,0.7567,3.339335698290494
 SLIIT,Cyber Security,Commerce Stream,0.2345,3.1320424685196975
 NIBM,Information Technology,Commerce Stream,0.2345,2.6605024160534883
 NIBM,Information Technology,Commerce Stream,0.2345,2.3327497705346
 NIBM,Information Technology,Commerce Stream,0.2345,2.2373509404143475
-NIBM,Computer Systems & Network Engineering,Maths Stream,0.7567,2.4863682532076767
+NIBM,Computer Systems & Network Engineering,Maths Stream,0.7567,3.2357982623186956
 NSBM,Information Systems Engineering,Commerce Stream,0.2315,2.784735078063483
 SLIIT,Information Technology,Commerce Stream,0.2345,2.2611877951304593
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.918353250439702
@@ -434,7 +434,7 @@ SLIIT,Cyber Security,Commerce Stream,0.2345,2.4020481663553737
 NIBM,Information Systems Engineering,Commerce Stream,0.2305,2.4816800485641832
 NIBM,Information Systems Engineering,Commerce Stream,0.2395,2.923728699096391
 NIBM,Information Technology,Commerce Stream,0.2345,2.790669164656821
-NIBM,Software Engineering,Bio Stream,0.7567,3.0923935229652373
+NIBM,Software Engineering,Bio Stream,0.7567,3.2663886951939967
 NSBM,Information Systems Engineering,Commerce Stream,0.2295,2.834687901213967
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.9876585957045414
 SLIIT,Information Technology,Commerce Stream,0.2345,2.6584204326567606
@@ -444,7 +444,7 @@ NIBM,Information Technology,Commerce Stream,0.2345,2.4848103748769867
 NIBM,Cyber Security,Commerce Stream,0.2345,2.235217539388314
 NIBM,Data Science,Maths Stream,0.5645,2.971896879768739
 NSBM,Software Engineering,Bio Stream,0.5645,2.587233180595877
-NSBM,Information Systems Engineering,Commerce Stream,1.2345,3.338690200500746
+NSBM,Information Systems Engineering,Commerce Stream,1.2345,3.0732655788771
 NIBM,Cyber Security,Commerce Stream,0.2345,2.3498687380500947
 NIBM,Software Engineering,Commerce Stream,0.2345,3.1138571890662954
 NSBM,Software Engineering,Commerce Stream,0.2345,3.1249672752951474
@@ -453,33 +453,33 @@ NIBM,Software Engineering,Commerce Stream,0.2345,2.4779853501039133
 NIBM,Computer Systems & Network Engineering,Maths Stream,0.5645,2.8274834035394827
 NIBM,Information Technology,Maths Stream,0.5645,2.416563653271884
 NIBM,Software Engineering,Maths Stream,0.5645,2.3668724271553567
-NIBM,Software Engineering,Technology Stream,0.7854,3.2302394350656436
+NIBM,Software Engineering,Technology Stream,0.7854,3.778342105302891
 NSBM,Software Engineering,Technology Stream,0.1543,2.2436583137775807
 NIBM,Computer Systems & Network Engineering,Technology Stream,0.3256,2.4942599482471897
 NSBM,Software Engineering,Commerce Stream,0.2345,2.563627119141185
 NIBM,Software Engineering,Commerce Stream,0.2345,3.031895959156357
 NIBM,Software Engineering,Commerce Stream,0.2345,2.2039915283892046
 NIBM,Interactive Media,Commerce Stream,0.2345,2.9824201734848543
-NIBM,Interactive Media,Technology Stream,0.7989,3.358502488335342
+NIBM,Interactive Media,Technology Stream,0.7989,2.995409215119681
 NIBM,Interactive Media,Technology Stream,0.2356,2.2793578533084564
-NIBM,Interactive Media,Art stream,0.7549,2.2914726412415343
+NIBM,Interactive Media,Art stream,0.7549,3.023992737487686
 NSBM,Interactive Media,Art stream,0.5899,3.185195884945288
 NSBM,Interactive Media,Art stream,0.2689,3.0110135786205703
 NIBM,Interactive Media,Maths Stream,0.5645,2.5871096213114697
-NSBM,Information Technology,Bio Stream,0.8345,3.364665045479221
-NIBM,Information Technology,Bio Stream,0.8345,2.89560892328645
-NIBM,Data Science,Bio Stream,0.8345,2.9997063542546343
-NSBM,Cyber Security,Bio Stream,0.8345,2.9854112313091417
-NIBM,Information Technology,Bio Stream,1.1056,3.3821302008357432
-NSBM,Information Technology,Bio Stream,1.1056,2.9895027879143554
-NSBM,Information Technology,Bio Stream,1.1056,3.5914002368612485
-NIBM,Computer Systems & Network Engineering,Maths Stream,1.1056,3.1781536024033574
+NSBM,Information Technology,Bio Stream,0.8345,2.987281054385643
+NIBM,Information Technology,Bio Stream,0.8345,3.7274638555153885
+NIBM,Data Science,Bio Stream,0.8345,2.8251747693340397
+NSBM,Cyber Security,Bio Stream,0.8345,2.9610631772435694
+NIBM,Information Technology,Bio Stream,1.1056,2.813628452809202
+NSBM,Information Technology,Bio Stream,1.1056,3.1087294437023796
+NSBM,Information Technology,Bio Stream,1.1056,3.7193871554654008
+NIBM,Computer Systems & Network Engineering,Maths Stream,1.1056,3.629458873955875
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.2142558786794178
 SLIIT,Information Technology,Bio Stream,0.5634,2.3107772915474953
 NIBM,Information Systems Engineering,Commerce Stream,0.2395,2.6225391530328874
 NSBM,Cyber Security,Maths Stream,0.5634,2.926327842450086
 SLIIT,Information Systems Engineering,Commerce Stream,0.2775,2.9009810502264894
-SLIIT,Information Systems Engineering,Commerce Stream,1.2395,2.6966301934257437
+SLIIT,Information Systems Engineering,Commerce Stream,1.2395,3.149741559231106
 SLIIT,Information Technology,Bio Stream,0.5634,2.4594771030106495
 SLIIT,Software Engineering,Commerce Stream,0.2345,2.9553337815753973
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,2.9584989958837022
@@ -488,7 +488,7 @@ SLIIT,Information Technology,Commerce Stream,0.2345,3.027969118182322
 NSBM,Data Science,Maths Stream,0.5634,2.8054981676796205
 SLIIT,Software Engineering,Maths Stream,0.5634,2.5606567828846245
 SLIIT,Information Technology,Maths Stream,0.5634,2.9576639837313943
-SLIIT,Cyber Security,Technology Stream,0.7645,2.6218292122447457
+SLIIT,Cyber Security,Technology Stream,0.7645,3.6963438983943075
 SLIIT,Data Science,Technology Stream,0.4567,2.638616700845903
 SLIIT,Software Engineering,Technology Stream,0.1234,2.2832407659683085
 SLIIT,Information Systems Engineering,Commerce Stream,0.2395,3.0019751718539753
@@ -500,6 +500,6 @@ SLIIT,Software Engineering,Technology Stream,0.5421,3.137265296103199
 SLIIT,Computer Systems & Network Engineering,Art stream,0.2539,2.638229626996929
 NIBM,Information Technology,Art stream,0.2599,3.1491641706717344
 NSBM,Software Engineering,Art stream,0.2959,2.7621166582162644
-SLIIT,Software Engineering,Maths Stream,0.7502,2.5272285399151544
-SLIIT,Software Engineering,Bio Stream,0.7502,3.1184328415655793
-SLIIT,Software Engineering,Bio Stream,0.7502,2.3379735090496654
+SLIIT,Software Engineering,Maths Stream,0.7502,3.6787668426602242
+SLIIT,Software Engineering,Bio Stream,0.7502,3.1616751208484986
+SLIIT,Software Engineering,Bio Stream,0.7502,3.6221194592705204
