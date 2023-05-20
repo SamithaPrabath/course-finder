@@ -1,0 +1,505 @@
+University,Specialization (Only for IT graduates/undergraduates),Applied Loan Amount,Year Of Course,Duration Of course ,GPA
+SLIIT,Information Systems Engineering,700000,4,4,2.5
+SLIIT,Information Technology,450000,4,4,3.6
+SLIIT,Information Systems Engineering,900000,4,4,2.6
+SLIIT,Cyber Security,2100000,4,4,3.2
+SLIIT,Information Systems Engineering,450000,4,4,2.3
+SLIIT,Information Systems Engineering,1200000,4,4,3.6
+SLIIT,Information Technology,700000,4,4,3.5
+NSBM,Software Engineering,2300000,4,4,3.6
+SLIIT,Information Systems Engineering,1700000,4,4,3.8
+SLIIT,Information Systems Engineering,1500000,4,4,3.5
+SLIIT,Information Technology,250000,4,5,2.1
+SLIIT,Data Science,400000,4,4,2.8
+SLIIT,Cyber Security,750000,4,4,2.7
+SLIIT,Information Technology,1200000,4,4,3.8
+SLIIT,Cyber Security,1000000,4,4,2.8
+SLIIT,Data Science,1100000,4,4,3.8
+NSBM,Software Engineering,1600000,4,4,3.7
+SLIIT,Information Systems Engineering,500000,4,4,3.9
+SLIIT,Cyber Security,1300000,4,4,3.4
+SLIIT,Software Engineering,1000000,4,5,2.4
+NSBM,Cyber Security,550000,4,4,2.8
+SLIIT,Information Technology,150000,4,4,2.6
+SLIIT,Software Engineering,350000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,650000,4,4,3.1
+SLIIT,Information Technology,1500000,4,5,2.2
+NSBM,Cyber Security,800000,4,4,2.8
+SLIIT,Software Engineering,350000,4,4,2.3
+SLIIT,Software Engineering,850000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,2000000,4,4,3.5
+SLIIT,Cyber Security,500000,4,4,3.6
+SLIIT,Data Science,200000,4,4,3.8
+SLIIT,Data Science,1300000,4,4,3.5
+SLIIT,Information Technology,2300000,4,5,2.1
+SLIIT,Data Science,400000,4,4,2.8
+NSBM,Information Technology,900000,4,4,2.7
+NSBM,Cyber Security,500000,4,4,3.8
+SLIIT,Data Science,800000,4,4,2.8
+SLIIT,Software Engineering,600000,4,4,2.8
+SLIIT,Cyber Security,1400000,4,4,3.8
+SLIIT,Information Systems Engineering,150000,4,4,3.7
+SLIIT,Information Systems Engineering,350000,4,4,3.9
+NSBM,Software Engineering,1500000,4,4,3.4
+NSBM,Software Engineering,2300000,4,4,2.5
+SLIIT,Information Technology,900000,4,4,3.6
+SLIIT,Information Technology,1200000,4,4,2.6
+SLIIT,Information Technology,650000,4,4,3.2
+SLIIT,Information Technology,1700000,4,4,2.3
+NSBM,Computer Systems & Network Engineering,1300000,4,4,3.6
+SLIIT,Information Systems Engineering,2000000,4,4,3.5
+SLIIT,Software Engineering,1400000,4,4,3.6
+SLIIT,Information Technology,1150000,4,4,3.8
+SLIIT,Information Technology,1300000,4,4,2.6
+SLIIT,Information Technology,1500000,4,4,3.6
+SLIIT,Information Systems Engineering,1700000,4,4,2.8
+SLIIT,Software Engineering,800000,4,5,2.6
+SLIIT,Software Engineering,1000000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,2.3
+SLIIT,Information Technology,250000,4,4,3.6
+SLIIT,Cyber Security,400000,4,4,3.5
+SLIIT,Software Engineering,750000,4,4,3.6
+SLIIT,Information Technology,2000000,4,4,3.8
+NSBM,Information Technology,500000,4,4,3.5
+NSBM,Information Technology,900000,4,5,2.1
+NSBM,Information Technology,150000,4,4,2.8
+NSBM,Cyber Security,350000,4,4,2.7
+NIBM,Information Technology,650000,4,4,3.8
+NIBM,Information Technology,1500000,4,4,2.8
+NIBM,Information Technology,800000,4,4,3.5
+NSBM,Information Technology,350000,4,4,3.1
+NSBM,Cyber Security,850000,4,4,2.8
+NIBM,Information Technology,2000000,4,4,3.8
+NIBM,Information Technology,500000,4,4,3.7
+NIBM,Cyber Security,200000,4,4,3.9
+NSBM,Cyber Security,1300000,4,4,3.8
+NSBM,Cyber Security,350000,4,4,3.4
+NIBM,Cyber Security,650000,4,4,2.6
+NSBM,Cyber Security,900000,4,4,3.6
+NIBM,Cyber Security,800000,4,4,2.8
+NIBM,Cyber Security,350000,4,4,2.6
+NIBM,Cyber Security,850000,4,4,2.6
+NIBM,Information Technology,2000000,4,4,3.6
+NIBM,Information Technology,500000,4,4,3.1
+NIBM,Information Technology,1300000,4,5,2.2
+NSBM,Information Technology,1000000,4,4,2.8
+SLIIT,Cyber Security,550000,4,4,2.3
+NSBM,Computer Systems & Network Engineering,150000,4,5,2.5
+NSBM,Computer Systems & Network Engineering,200000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,1300000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,3.2
+SLIIT,Computer Systems & Network Engineering,250000,4,4,2.3
+NSBM,Computer Systems & Network Engineering,400000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,750000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,800000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,200000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,1300000,4,4,2.5
+NIBM,Cyber Security,2300000,4,4,2.6
+NSBM,Computer Systems & Network Engineering,1000000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,550000,4,5,2.1
+NSBM,Computer Systems & Network Engineering,150000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,350000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,1500000,4,4,3.8
+NSBM,Data Science,800000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,350000,4,5,2.1
+NIBM,Software Engineering,850000,4,4,2.8
+NSBM,Computer Systems & Network Engineering,2000000,4,4,2.7
+NIBM,Cyber Security,500000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,350000,4,4,3.1
+NIBM,Computer Systems & Network Engineering,650000,4,4,2.8
+NSBM,Computer Systems & Network Engineering,1500000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,900000,4,4,3.7
+NSBM,Software Engineering,250000,4,4,3.9
+NIBM,Computer Systems & Network Engineering,400000,4,4,3.4
+NIBM,Computer Systems & Network Engineering,750000,4,4,2.9
+NSBM,Computer Systems & Network Engineering,2000000,4,4,2.5
+NSBM,Computer Systems & Network Engineering,750000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,850000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,500000,4,4,3.2
+NIBM,Computer Systems & Network Engineering,400000,4,4,2.3
+NIBM,Computer Systems & Network Engineering,900000,4,4,3.6
+NIBM,Information Technology,1000000,4,4,3.5
+NSBM,Data Science,800000,4,4,3.6
+NIBM,Cyber Security,650000,4,4,3.8
+NSBM,Software Engineering,1500000,4,4,3.5
+NIBM,Software Engineering,800000,4,4,2.1
+NIBM,Software Engineering,400000,4,4,2.6
+NIBM,Cyber Security,1200000,4,4,3.5
+NIBM,Cyber Security,250000,4,4,2.1
+NIBM,Computer Systems & Network Engineering,400000,4,4,2.9
+NIBM,Computer Systems & Network Engineering,750000,4,4,2.5
+NSBM,Computer Systems & Network Engineering,850000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,2300000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,1200000,4,4,2.9
+NSBM,Computer Systems & Network Engineering,650000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,1500000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,800000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,1300000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,1000000,4,4,2.1
+NSBM,Computer Systems & Network Engineering,750000,4,4,2.8
+NSBM,Computer Systems & Network Engineering,800000,4,4,2.7
+NIBM,Computer Systems & Network Engineering,200000,4,4,2.2
+SLIIT,Cyber Security,2000000,4,4,2.8
+SLIIT,Cyber Security,500000,4,4,2.3
+NIBM,Information Technology,900000,4,4,2.8
+NSBM,Information Technology,1500000,4,4,3.8
+SLIIT,Cyber Security,900000,4,4,3.7
+NIBM,Cyber Security,1000000,4,4,3.9
+NIBM,Computer Systems & Network Engineering,800000,4,4,3.4
+NIBM,Cyber Security,350000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,650000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,1500000,4,4,3.6
+NIBM,Cyber Security,800000,4,4,3.8
+SLIIT,Computer Systems & Network Engineering,1300000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,2.1
+SLIIT,Computer Systems & Network Engineering,350000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,1000000,4,4,2.7
+SLIIT,Computer Systems & Network Engineering,900000,4,4,3.8
+SLIIT,Computer Systems & Network Engineering,650000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,1900000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,200000,4,4,3.5
+SLIIT,Information Technology,1300000,4,5,2.1
+SLIIT,Data Science,2300000,4,4,2.8
+SLIIT,Cyber Security,1500000,4,4,2.7
+SLIIT,Software Engineering,1300000,4,4,3.5
+NSBM,Software Engineering,1000000,4,4,2.1
+SLIIT,Software Engineering,550000,4,4,2.8
+SLIIT,Cyber Security,150000,4,4,2.7
+SLIIT,Cyber Security,1800000,4,4,2.5
+NSBM,Computer Systems & Network Engineering,2000000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,800000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,150000,4,4,2.1
+SLIIT,Computer Systems & Network Engineering,350000,4,4,2.8
+SLIIT,Cyber Security,650000,4,4,2.7
+SLIIT,Computer Systems & Network Engineering,1500000,4,4,3.8
+SLIIT,Computer Systems & Network Engineering,800000,4,5,2.3
+SLIIT,Computer Systems & Network Engineering,350000,4,4,2.5
+SLIIT,Cyber Security,850000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,2000000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,500000,4,4,3.2
+SLIIT,Computer Systems & Network Engineering,200000,4,4,2.3
+SLIIT,Computer Systems & Network Engineering,1300000,4,4,3.6
+SLIIT,Information Technology,2000000,4,4,3.5
+SLIIT,Information Systems Engineering,500000,4,4,3.6
+SLIIT,Information Technology,900000,4,4,3.8
+SLIIT,Information Technology,1500000,4,4,2.8
+SLIIT,Data Science,550000,4,4,3.8
+NSBM,Cyber Security,150000,4,4,3.7
+NSBM,Information Technology,350000,4,4,3.9
+SLIIT,Information Technology,1200000,4,4,3.4
+SLIIT,Information Technology,1000000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,550000,4,4,3.1
+SLIIT,Information Systems Engineering,150000,4,4,2.2
+SLIIT,Information Technology,350000,4,4,2.8
+NSBM,Information Systems Engineering,900000,4,4,2.3
+NSBM,Cyber Security,1500000,4,4,2.3
+SLIIT,Information Systems Engineering,800000,4,4,3.6
+SLIIT,Information Systems Engineering,250000,4,4,3.5
+SLIIT,Information Technology,400000,4,4,3.6
+SLIIT,Software Engineering,750000,4,4,3.8
+NSBM,Information Systems Engineering,2300000,4,4,3.5
+SLIIT,Information Systems Engineering,250000,4,4,2.1
+SLIIT,Information Technology,400000,4,4,2.8
+SLIIT,Data Science,750000,4,4,2.7
+NIBM,Software Engineering,1200000,4,4,3.8
+NIBM,Information Technology,1000000,4,4,2.8
+NIBM,Cyber Security,1650000,4,4,2.5
+NIBM,Data Science,900000,4,4,2.3
+NSBM,Software Engineering,1500000,4,4,3.6
+SLIIT,Information Systems Engineering,1700000,4,4,3.5
+SLIIT,Cyber Security,2300000,4,4,3.6
+SLIIT,Software Engineering,1500000,4,4,2.6
+NIBM,Software Engineering,650000,4,4,3.5
+NIBM,Information Technology,1500000,4,4,3.2
+NIBM,Software Engineering,800000,4,4,2.5
+NIBM,Computer Systems & Network Engineering,1400000,4,4,3.6
+NSBM,Information Technology,1500000,4,4,2.6
+SLIIT,Software Engineering,800000,4,4,3.2
+SLIIT,Software Engineering,250000,4,4,2.3
+SLIIT,Software Engineering,400000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,750000,4,4,3.5
+NIBM,Software Engineering,650000,4,4,3.6
+NIBM,Software Engineering,1500000,4,4,3.8
+NIBM,Software Engineering,900000,4,4,2.9
+SLIIT,Interactive Media,2000000,4,4,2.7
+SLIIT,Interactive Media,900000,4,4,2.3
+SLIIT,Interactive Media,800000,4,4,3.6
+SLIIT,Interactive Media,1000000,4,4,3.5
+SLIIT,Interactive Media,550000,4,4,3.6
+SLIIT,Interactive Media,150000,4,4,3.8
+SLIIT,Interactive Media,2000000,4,4,3.5
+NSBM,Information Technology,1300000,4,4,2.1
+SLIIT,Interactive Media,1500000,4,4,2.8
+SLIIT,Interactive Media,800000,4,4,2.7
+SLIIT,Interactive Media,350000,4,4,3.8
+SLIIT,Interactive Media,850000,4,4,2.8
+SLIIT,Interactive Media,2000000,4,4,3.6
+SLIIT,Interactive Media,500000,4,4,2.6
+SLIIT,Interactive Media,900000,4,4,3.2
+SLIIT,Interactive Media,1000000,4,5,2.3
+NSBM,Information Systems Engineering,800000,4,4,3.5
+SLIIT,Information Technology,1800000,4,4,3.1
+SLIIT,Information Systems Engineering,800000,4,4,3.0
+SLIIT,Cyber Security,350000,4,4,3.8
+NSBM,Information Systems Engineering,1500000,4,4,3.4
+SLIIT,Information Systems Engineering,1300000,4,4,2.6
+SLIIT,Information Technology,1000000,4,4,3.6
+NSBM,Software Engineering,550000,4,4,3.5
+SLIIT,Information Systems Engineering,350000,4,4,3.6
+NSBM,Information Systems Engineering,650000,4,4,3.8
+SLIIT,Information Technology,1500000,4,4,3.5
+SLIIT,Data Science,800000,4,4,2.1
+SLIIT,Cyber Security,2500000,4,4,2.8
+SLIIT,Information Technology,1000000,4,4,2.7
+SLIIT,Cyber Security,800000,4,4,3.5
+SLIIT,Data Science,2000000,4,4,3.4
+SLIIT,Software Engineering,1500000,4,4,3.6
+SLIIT,Information Systems Engineering,1400000,4,4,2.6
+NSBM,Cyber Security,1900000,4,4,3.2
+NSBM,Software Engineering,850000,4,4,2.3
+SLIIT,Cyber Security,2000000,4,4,2.6
+SLIIT,Information Technology,500000,4,4,2.3
+SLIIT,Software Engineering,900000,4,4,2.5
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,3.6
+SLIIT,Information Technology,1500000,4,4,2.6
+NSBM,Cyber Security,1800000,4,4,3.2
+NSBM,Software Engineering,2000000,4,4,2.3
+SLIIT,Software Engineering,1500000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,800000,4,4,3.5
+SLIIT,Cyber Security,350000,4,4,3.6
+SLIIT,Data Science,850000,4,4,3.8
+NSBM,Data Science,2000000,4,4,2.3
+SLIIT,Information Technology,500000,4,4,3.6
+SLIIT,Data Science,1800000,4,4,3.5
+SLIIT,Information Technology,1500000,4,4,3.6
+SLIIT,Cyber Security,2000000,4,4,3.8
+SLIIT,Data Science,350000,4,4,3.5
+SLIIT,Software Engineering,650000,4,5,2.1
+SLIIT,Cyber Security,450000,4,4,2.8
+SLIIT,Information Systems Engineering,900000,4,4,2.7
+SLIIT,Information Systems Engineering,1500000,4,4,3.8
+SLIIT,Software Engineering,1000000,4,4,2.8
+SLIIT,Software Engineering,800000,4,4,3.6
+SLIIT,Information Technology,2000000,4,4,3.4
+SLIIT,Information Technology,1800000,4,4,2.5
+NSBM,Information Technology,1700000,4,4,2.8
+NSBM,Information Technology,150000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,350000,4,4,2.6
+NSBM,Information Systems Engineering,650000,4,5,2.2
+NIBM,Software Engineering,1500000,4,4,2.9
+NIBM,Information Technology,800000,4,4,2.4
+NIBM,Information Technology,350000,4,4,2.3
+NSBM,Information Technology,850000,4,4,3.6
+NSBM,Information Systems Engineering,2000000,4,4,3.5
+NIBM,Software Engineering,500000,4,4,3.6
+NIBM,Software Engineering,200000,4,4,3.8
+NIBM,Computer Systems & Network Engineering,1300000,4,4,3.5
+NSBM,Information Technology,2000000,4,5,2.1
+NSBM,Cyber Security,1700000,4,4,2.8
+NIBM,Software Engineering,650000,4,4,2.7
+NSBM,Information Technology,1500000,4,4,3.8
+NIBM,Information Technology,800000,4,4,2.8
+NIBM,Information Technology,2000000,4,4,2.9
+NIBM,Information Technology,650000,4,4,2.7
+NIBM,Cyber Security,1500000,4,4,2.3
+NIBM,Information Technology,800000,4,4,3.6
+NIBM,Information Technology,1900000,4,4,3.5
+NSBM,Information Technology,2000000,4,4,3.5
+SLIIT,Information Technology,1800000,4,5,2.1
+NSBM,Cyber Security,1500000,4,4,2.8
+NSBM,Information Technology,800000,4,4,2.7
+NSBM,Information Technology,350000,4,4,2.8
+SLIIT,Cyber Security,1700000,4,4,3.5
+SLIIT,Cyber Security,2000000,4,4,3.6
+NSBM,Cyber Security,1800000,4,4,2.6
+NSBM,Cyber Security,1900000,4,4,3.5
+NIBM,Cyber Security,1500000,4,4,3.2
+NSBM,Cyber Security,800000,4,4,2.5
+NSBM,Cyber Security,350000,4,4,3.6
+NIBM,Cyber Security,850000,4,4,3.4
+NSBM,Information Technology,2000000,4,4,2.5
+NSBM,Information Technology,500000,4,4,3.6
+NSBM,Information Technology,1000000,4,4,2.6
+NSBM,Information Technology,550000,4,4,3.2
+NSBM,Cyber Security,150000,4,4,2.3
+NSBM,Computer Systems & Network Engineering,350000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,900000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,1000000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,550000,4,4,3.8
+NIBM,Computer Systems & Network Engineering,150000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,200000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,1300000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,2300000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,850000,4,5,2.1
+NSBM,Computer Systems & Network Engineering,650000,4,4,2.8
+NIBM,Cyber Security,1900000,4,4,2.7
+NIBM,Computer Systems & Network Engineering,1000000,4,4,2.5
+NSBM,Computer Systems & Network Engineering,2000000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,450000,4,4,3.4
+NIBM,Computer Systems & Network Engineering,900000,4,4,2.5
+NIBM,Computer Systems & Network Engineering,850000,4,4,3.6
+NIBM,Data Science,2000000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,500000,4,4,3.2
+NIBM,Software Engineering,900000,4,5,2.3
+NSBM,Computer Systems & Network Engineering,2300000,4,4,3.6
+NIBM,Cyber Security,1800000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,1200000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,750000,4,4,3.8
+NIBM,Computer Systems & Network Engineering,800000,4,4,2.5
+NIBM,Computer Systems & Network Engineering,200000,4,4,3.6
+NIBM,Software Engineering,400000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,750000,4,4,2.3
+NIBM,Computer Systems & Network Engineering,1200000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,650000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,1500000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,800000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,1900000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,900000,4,5,2.1
+NIBM,Computer Systems & Network Engineering,350000,4,4,2.8
+NSBM,Information Technology,1500000,4,4,2.7
+NIBM,Data Science,2000000,4,4,3.8
+NSBM,Cyber Security,350000,4,4,2.8
+NSBM,Software Engineering,1800000,4,4,3.8
+NIBM,Software Engineering,650000,4,4,3.4
+SLIIT,Software Engineering,1000000,4,4,2.6
+SLIIT,Cyber Security,850000,4,4,3.6
+NIBM,Cyber Security,2000000,4,4,3.6
+NSBM,Computer Systems & Network Engineering,500000,4,4,3.4
+SLIIT,Computer Systems & Network Engineering,450000,4,5,2.5
+NIBM,Computer Systems & Network Engineering,900000,4,4,2.8
+NIBM,Computer Systems & Network Engineering,500000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,1200000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,900000,4,4,2.5
+NIBM,Computer Systems & Network Engineering,1700000,4,4,3.6
+NIBM,Computer Systems & Network Engineering,2300000,4,4,3.4
+SLIIT,Computer Systems & Network Engineering,2100000,4,4,2.5
+SLIIT,Computer Systems & Network Engineering,1700000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,650000,4,4,2.1
+SLIIT,Computer Systems & Network Engineering,900000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,800000,4,4,2.7
+SLIIT,Cyber Security,350000,4,4,3.8
+SLIIT,Cyber Security,850000,4,4,3.6
+NSBM,Information Technology,1000000,4,4,3.5
+SLIIT,Information Technology,800000,4,4,3.6
+SLIIT,Cyber Security,2000000,4,4,3.8
+SLIIT,Cyber Security,500000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,800000,4,4,2.1
+NSBM,Cyber Security,1200000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,1500000,4,4,2.7
+SLIIT,Computer Systems & Network Engineering,800000,4,4,3.8
+SLIIT,Cyber Security,350000,4,4,2.8
+NSBM,Computer Systems & Network Engineering,850000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,2000000,4,4,3.8
+SLIIT,Computer Systems & Network Engineering,500000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,700000,4,4,2.5
+SLIIT,Computer Systems & Network Engineering,800000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,1300000,4,4,3.2
+SLIIT,Computer Systems & Network Engineering,1600000,4,4,2.3
+SLIIT,Information Technology,1000000,4,4,3.6
+NSBM,Data Science,850000,4,4,3.5
+SLIIT,Cyber Security,2000000,4,4,3.6
+SLIIT,Software Engineering,500000,4,4,3.8
+SLIIT,Software Engineering,1700000,4,4,2.8
+SLIIT,Software Engineering,900000,4,4,2.7
+SLIIT,Cyber Security,1500000,4,4,3.8
+SLIIT,Cyber Security,1200000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,800000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,350000,4,4,2.1
+NSBM,Computer Systems & Network Engineering,850000,4,4,3.6
+SLIIT,Cyber Security,900000,4,4,2.6
+SLIIT,Computer Systems & Network Engineering,1500000,4,4,3.2
+SLIIT,Computer Systems & Network Engineering,1900000,4,4,3.5
+SLIIT,Computer Systems & Network Engineering,900000,4,4,3.6
+SLIIT,Cyber Security,800000,4,4,3.8
+NSBM,Computer Systems & Network Engineering,350000,4,4,3.5
+NSBM,Computer Systems & Network Engineering,1200000,4,4,2.1
+SLIIT,Computer Systems & Network Engineering,2300000,4,4,2.8
+SLIIT,Computer Systems & Network Engineering,800000,4,4,2.7
+SLIIT,Information Technology,2000000,4,4,2.5
+SLIIT,Information Systems Engineering,1000000,4,4,3.6
+NSBM,Information Technology,800000,4,4,3.4
+SLIIT,Information Technology,2000000,4,4,2.5
+SLIIT,Data Science,1450000,4,4,2.8
+SLIIT,Cyber Security,1800000,4,4,3.6
+NIBM,Information Technology,1500000,4,4,2.6
+NIBM,Information Technology,800000,4,4,3.2
+NIBM,Information Technology,250000,4,4,2.5
+NIBM,Computer Systems & Network Engineering,400000,4,4,3.6
+NSBM,Information Systems Engineering,750000,4,4,2.6
+SLIIT,Information Technology,2300000,4,4,3.5
+SLIIT,Information Systems Engineering,750000,4,4,2.1
+SLIIT,Cyber Security,500000,4,4,2.8
+NIBM,Information Systems Engineering,700000,4,4,2.7
+NIBM,Information Systems Engineering,450000,4,4,3.8
+NIBM,Information Technology,650000,4,4,3.6
+NIBM,Software Engineering,1500000,4,4,2.5
+NSBM,Information Systems Engineering,800000,4,4,3.6
+SLIIT,Information Systems Engineering,1200000,4,4,2.6
+SLIIT,Information Technology,450000,4,4,3.2
+SLIIT,Data Science,850000,4,4,2.5
+NIBM,Software Engineering,200000,4,4,3.6
+NIBM,Information Technology,1200000,4,4,3.4
+NIBM,Cyber Security,2300000,4,4,2.5
+NIBM,Data Science,800000,4,4,2.8
+NSBM,Software Engineering,650000,4,4,2.7
+NSBM,Information Systems Engineering,1000000,4,4,3.6
+NIBM,Cyber Security,400000,4,4,3.4
+NIBM,Software Engineering,750000,4,4,2.5
+NSBM,Software Engineering,1200000,4,4,3.8
+NSBM,Information Technology,1500000,4,4,3.4
+NIBM,Software Engineering,2000000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,350000,4,4,3.4
+NIBM,Information Technology,550000,4,4,2.6
+NIBM,Software Engineering,150000,4,4,3.6
+NIBM,Software Engineering,200000,4,4,3.6
+NSBM,Software Engineering,1300000,4,4,2.6
+NIBM,Computer Systems & Network Engineering,2000000,4,4,3.2
+NSBM,Software Engineering,1750000,4,4,3.5
+NIBM,Software Engineering,1750000,4,4,3.6
+NIBM,Software Engineering,1300000,4,4,3.8
+NIBM,Interactive Media,650000,4,4,3.5
+NIBM,Interactive Media,1500000,4,4,2.1
+NIBM,Interactive Media,800000,4,4,2.8
+NIBM,Interactive Media,500000,4,4,2.7
+NSBM,Interactive Media,700000,4,4,3.6
+NSBM,Interactive Media,450000,4,4,3.4
+NIBM,Interactive Media,850000,4,4,2.5
+NSBM,Information Technology,2300000,4,4,3.8
+NIBM,Information Technology,1200000,4,4,3.4
+NIBM,Data Science,650000,4,4,2.6
+NSBM,Cyber Security,900000,4,4,3.6
+NIBM,Information Technology,800000,4,4,2.6
+NSBM,Information Technology,350000,4,4,3.7
+NSBM,Information Technology,850000,4,4,3.5
+NIBM,Computer Systems & Network Engineering,1500000,4,4,3.6
+SLIIT,Information Systems Engineering,450000,4,4,2.6
+SLIIT,Information Technology,1200000,4,4,3.2
+NIBM,Information Systems Engineering,700000,4,4,2.3
+NSBM,Cyber Security,550000,4,4,3.6
+SLIIT,Information Systems Engineering,150000,4,4,3.5
+SLIIT,Information Systems Engineering,350000,4,4,3.6
+SLIIT,Information Technology,2000000,4,4,3.8
+SLIIT,Software Engineering,1500000,4,4,3.5
+SLIIT,Information Systems Engineering,800000,4,5,2.1
+SLIIT,Information Systems Engineering,350000,4,4,2.8
+SLIIT,Information Technology,850000,4,4,2.7
+NSBM,Data Science,2000000,4,4,3.8
+SLIIT,Software Engineering,500000,4,4,3.3
+SLIIT,Information Technology,1450000,4,4,2.5
+SLIIT,Cyber Security,1800000,4,4,3.6
+SLIIT,Data Science,1000000,4,4,2.6
+SLIIT,Software Engineering,800000,4,4,3.2
+SLIIT,Information Systems Engineering,2000000,4,4,2.3
+SLIIT,Cyber Security,500000,4,4,3.6
+SLIIT,Software Engineering,700000,4,4,3.5
+SLIIT,Software Engineering,450000,4,4,3.6
+SLIIT,Information Technology,1200000,4,4,3.8
+SLIIT,Software Engineering,700000,4,4,3.6
+SLIIT,Computer Systems & Network Engineering,2000000,4,4,2.6
+NIBM,Information Technology,4000000,4,4,3.2
+NSBM,Software Engineering,800000,4,4,3.8
+SLIIT,Software Engineering,1500000,4,4,3.4
+SLIIT,Software Engineering,850000,4,4,2.6
+SLIIT,Software Engineering,1800000,4,4,3.6
