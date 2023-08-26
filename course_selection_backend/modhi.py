@@ -44,7 +44,7 @@ data['Average_salary'] = (data['Min_salary'] + data['Max_salary']) / 2
 
 # Split the data into features (X) and target (y)
 X = data[['University_encoded', 'Specialization_encoded', 'Employability_encoded', 'Job_Role_encoded']]
-y = data['Average_salary']
+y = data[['Average_salary','Min_salary','Max_salary']]
 
 # Create a RandomForestRegressor model
 model = RandomForestRegressor()
@@ -67,26 +67,29 @@ def map_jason(file_name, value):
 
 # Example data for testing
 def get_salary(new_data1):
-  print(new_data1)
-  new_data = {
-      'University': ['SLIIT'],
-      'Specialization': ['BSc (Hons) in Information Technology Specialising in Information Systems Engineering'],
-      'Employability': ['Internship / Traniee'],
-      'Job_Role': ['System and Data Administrators']
-  }
+  try:
+    new_data = {
+        'University': ['SLIIT'],
+        'Specialization': ['BSc (Hons) in Information Technology Specialising in Information Systems Engineering'],
+        'Employability': [new_data1['Employability'][0]],
+        'Job_Role': ['Business Analysts']
+    }
+    new_data['University_encoded'] = map_jason('university_mapping.json',new_data['University'][0])
+    new_data['Specialization_encoded'] = map_jason('specialization_mapping.json',new_data['Specialization'][0])
+    new_data['Employability_encoded'] = map_jason('employability_mapping.json',new_data['Employability'][0])
+    new_data['Job_Role_encoded'] = map_jason('job_role_mapping.json',new_data['Job_Role'][0])
 
-  new_data['University_encoded'] = map_jason('university_mapping.json',new_data['University'][0])
-  new_data['Specialization_encoded'] = map_jason('specialization_mapping.json',new_data['Specialization'][0])
-  new_data['Employability_encoded'] = map_jason('employability_mapping.json',new_data['Employability'][0])
-  new_data['Job_Role_encoded'] = map_jason('job_role_mapping.json',new_data['Job_Role'][0])
+    new_data = pd.DataFrame(new_data)
 
-  new_data = pd.DataFrame(new_data)
-
-  X_test = new_data[['University_encoded', 'Specialization_encoded', 'Employability_encoded', 'Job_Role_encoded']]
-  # Make predictions using the trained model
-  predictions = model.predict(X_test)
-  # Display the predictions
-  for prediction in predictions:
-      print('Average Salary Rs: ', int(prediction))
-    
-  return []
+    X_test = new_data[['University_encoded', 'Specialization_encoded', 'Employability_encoded', 'Job_Role_encoded']]
+    # Make predictions using the trained model
+    predictions = model.predict(X_test)
+    # Display the predictions
+    data = []
+    for p in predictions:
+      for a in p:
+        data.append(int(a))
+    return data
+  except Exception as ex:
+    print(ex)
+    return 0

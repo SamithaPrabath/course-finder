@@ -2,6 +2,8 @@ from flask import Flask, request
 from flask_cors import CORS
 import mysql.connector
 import modhi as md
+import thadi as th
+
 def get_connection():
     cnx = mysql.connector.connect(
         user='root',
@@ -219,8 +221,81 @@ def get_salary():
       'Job_Role': [job]
     }
     
-    md.get_salary(new_data)
-    return {}
+    prediction1 = md.get_salary(new_data)
+    
+    new_data = {
+      'University': [result[0][1]],
+      'Specialization': [result[0][0]],
+      'Employability': ['Associate'],
+      'Job_Role': [job]
+    }
+    
+    prediction2 = md.get_salary(new_data)
+    
+    new_data = {
+      'University': [result[0][1]],
+      'Specialization': [result[0][0]],
+      'Employability': ['Engineer'],
+      'Job_Role': [job]
+    }
+    
+    prediction3 = md.get_salary(new_data)
+    
+    new_data = {
+      'University': [result[0][1]],
+      'Specialization': [result[0][0]],
+      'Employability': ['Senior Engineer'],
+      'Job_Role': [job]
+    }
+    
+    prediction4 = md.get_salary(new_data)
+    return {
+        'Internship / Traniee':prediction1,
+        'Associate':prediction2,
+        'Engineer':prediction3,
+        'Senior Engineer':prediction4
+    }
+
+@app.route('/get_scholarships', methods=['GET'])
+def get_scholarships():
+    results = []
+    conn = get_connection()
+    cursor = conn.cursor()
+    query = "SELECT * FROM scholarship"
+    cursor.execute(query)
+
+    result = cursor.fetchall()
+
+    for row in result:
+        data = {}
+        data['id'] = row[0]
+        data['tittle'] = row[1]
+        data['campus'] = row[2]
+        data['sub_tittle'] = row[3]
+        data['description'] = row[4]
+        results.append(data)
+    a= {"results":results}
+    cursor.close()
+    conn.close()
+    print(a)
+    return a
+
+
+@app.route('/get_loan', methods=['GET'])
+def get_loan():
+    data = {
+      'University': [request.args.get('university')],
+      'eligible_borrower': [request.args.get('borrower')],
+      'Borrowers_Monthly_Income': [request.args.get('income')],
+      'Contribution_of_borrower': [request.args.get('borrower')],
+      'Citizenship': [request.args.get('amount')],
+      'Applied_Loan_Amount': [request.args.get('job')],
+      'Mortgage_Status': [request.args.get('mortage')],
+
+    }
+    result = th.getloan(data)
+    return result
+
     
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
