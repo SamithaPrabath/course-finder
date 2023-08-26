@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 pandas = "*"
 openpyxl = "*"
+flask = "*"
+install = "*"
+mysql-connector-python = "*"
+flask-cors = "*"
 
 [dev-packages]
 
